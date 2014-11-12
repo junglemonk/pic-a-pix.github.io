@@ -554,8 +554,11 @@ ul {
   width: 960px;
   position: relative;
   margin: -100px auto; }
+  /* line 200, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+  .row_two_3steps span {
+    font-size: 11px; }
 
-/* line 201, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 205, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_two__one {
   width: 230px;
   /*min-width*/
@@ -563,11 +566,8 @@ ul {
   background: url(images/step1.png) no-repeat;
   position: absolute;
   padding-top: 126px; }
-  /* line 208, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
-  .row_two__one span {
-    font-size: 11px; }
 
-/* line 214, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 216, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_two__two {
   width: 180px;
   height: 150px;
@@ -575,11 +575,8 @@ ul {
   position: absolute;
   left: 356px;
   padding-top: 126px; }
-  /* line 222, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
-  .row_two__two span {
-    font-size: 11px; }
 
-/* line 227, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 226, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_two__three {
   width: 230px;
   /*min-width*/
@@ -588,12 +585,9 @@ ul {
   position: absolute;
   left: 731px;
   padding-top: 126px; }
-  /* line 235, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
-  .row_two__three span {
-    font-size: 11px; }
 
 /***ROW_THREE***/
-/* line 240, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 236, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_three {
   background: url(images/backgroundsrow3.png);
   display: inline-block;
@@ -601,7 +595,7 @@ ul {
   width: 100%;
   margin-top: -4px; }
 
-/* line 249, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 245, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_three_counter {
   margin: auto;
   margin-top: 45px;
@@ -609,7 +603,7 @@ ul {
   height: 67px;
   position: relative; }
 
-/* line 257, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 253, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_three__content {
   width: 572px;
   height: inherit;
@@ -617,13 +611,13 @@ ul {
   background: url(images/counter.png) no-repeat;
   margin-left: 160px;
   padding: 20px 0 0 260px; }
-  /* line 264, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+  /* line 260, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
   .row_three__content span {
     color: #ffffff;
     font-size: 14px; }
 
 /***ROW_FOUR***/
-/* line 271, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 267, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_four {
   width: 100%;
   height: 900px;
@@ -631,59 +625,59 @@ ul {
   margin-top: -4px;
   display: inline-block;
   position: relative; }
-  /* line 279, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+  /* line 275, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
   .row_four p {
     margin: 0;
     font: 400 16.59px/24.124px; }
 
-/* line 285, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 281, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row__pic1 {
   height: 383px;
   background: url(images/gallaryLacoste.png) no-repeat;
   padding: 330px 0 20px 0;
   font-size: 16.59px; }
 
-/* line 295, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 291, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row__column {
   display: inline;
   float: left;
   width: 317px;
   margin: 0 0px; }
 
-/* line 299, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 295, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_four_gallary {
   width: 951px;
   height: 745px;
   margin: 40px auto; }
 
-/* line 307, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 303, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row__pic2 {
   background: url(images/gallaryInveder.png) no-repeat;
   height: 383px;
   padding: 330px 0 20px 0; }
 
-/* line 313, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 309, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row__pic3 {
   background: url(images/gallaryLiza.png) no-repeat;
   height: 383px;
   padding: 330px 0 20px 0; }
 
-/* line 319, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 315, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row__pic4 {
   background: url(images/gallaryMonroe.png) no-repeat;
   height: 360px; }
 
-/* line 324, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 320, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row__pic5 {
   background: url(images/gallaryGranate.png) no-repeat;
   height: 360px; }
 
-/* line 329, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 325, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row__pic6 {
   background: url(images/gallaryPhone.png) no-repeat;
   height: 360px; }
 
-/* line 334, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 330, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_four__button {
   width: 220px;
   height: 31px;
@@ -692,20 +686,20 @@ ul {
   border: 0;
   position: absolute;
   left: 370px; }
-  /* line 342, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+  /* line 338, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
   .row_four__button a {
     text-align: center;
     color: #ffffff;
     font-size: 14px/31px; }
 
-/* line 351, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 347, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_four_center_button {
   width: 960px;
   height: 33px;
   position: relative;
   margin: auto; }
 
-/* line 358, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 354, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .row_five {
   width: 100%;
   height: 510px;
@@ -713,7 +707,7 @@ ul {
   background-size: cover; }
 
 /***FOOTER***/
-/* line 366, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 362, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .footer {
   min-width: 960px;
   width: 100%;
@@ -723,14 +717,14 @@ ul {
   display: inline-block;
   font-size: 10px; }
 
-/* line 377, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 373, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .footer_txt {
   height: 11px;
   float: left;
   margin: 35px 0 0 15px;
   display: inline-block; }
 
-/* line 385, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 381, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .footer_social {
   width: 95px;
   height: 33px;
@@ -738,41 +732,41 @@ ul {
   float: left;
   display: inline-block; }
 
-/* line 398, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 394, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .footer__fb {
   float: left;
   margin-right: 1px;
   height: 33px; }
-  /* line 403, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+  /* line 399, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
   .footer__fb a {
     width: 31px;
     height: 33px;
     background: url(images/fb.png) no-repeat;
     display: inline-block; }
 
-/* line 411, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 407, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .footer__tw {
   margin-right: 1px;
   float: left;
   height: 33px; }
-  /* line 415, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+  /* line 411, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
   .footer__tw a {
     width: 31px;
     height: 33px;
     background: url(images/twi.png) no-repeat;
     display: inline-block; }
 
-/* line 423, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 419, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .footer__pi {
   height: 33px; }
-  /* line 425, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+  /* line 421, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
   .footer__pi a {
     width: 31px;
     height: 33px;
     background: url(images/ps.png) no-repeat;
     display: inline-block; }
 
-/* line 433, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 429, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .footer_logo {
   width: 90px;
   height: 25px;
@@ -781,17 +775,17 @@ ul {
   position: absolute;
   background: url(images/LOGO-footer.png); }
 
-/* line 445, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 441, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .footer_contacts_ul li {
   display: inline-block;
   text-align: right;
   color: #333030;
   padding-right: 15px; }
-  /* line 451, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+  /* line 447, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
   .footer_contacts_ul li span {
     color: #ff4911; }
 
-/* line 457, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
+/* line 453, C:/Program Files (x86)/Brackets/samples/sivac/pic-a-pix.github.io/main.scss */
 .footer_contacts {
   margin-top: 25px;
   height: 27px;
