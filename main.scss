@@ -94,27 +94,24 @@ ul {
     height: 440px;
     width: 100%;
     background-size: cover;
-    position: relative;
+    position: relative;  
     
+    a {
+        color: #ffffff;
+        font-size: 14px;
+    }
 }
 
 
 
 .row_stud_butt {
     background-color: #ff4911;
-//    width: 109px;
     height: 31px;
     border: 0px;
     position: absolute;
     left: 315px;
     box-shadow: 0 2px #b9360d;
     padding: 9px 10px 9px 10px;
-    a {
-        color: #ffffff;
-        font-weight: 400;
-        font-size: 14px;
-    }
-    
 }
 
 .row_stud_make {
@@ -175,10 +172,7 @@ ul {
     box-shadow: 0 2px #b9360d;
     padding: 9px 10px 9px 10px;
     
-    a {
-        color: #ffffff;
-        font-size: 14px;
-    }
+    
 }
 /***ROW_TWO***/
 .row_two {
@@ -370,27 +364,28 @@ ul {
 
 /***FOOTER***/
 .footer {
-    
+    min-width: 960px;
     width: 100%;
     height: 75px;
     background-color: #ffffff;
     position: relative;
     display: inline-block;
+    font-size: 10px;
     
 }
 
 .footer_txt {
     height: 11px;
     float: left;
-    margin: 35px 0 0 35px;
+    margin: 35px 0 0 15px;
     display: inline-block;
-    font-size: 13.57px;
+    
 }
 
 .footer_social {
     width: 95px;
     height: 33px;
-    margin: 25px 0 0 100px;
+    margin: 25px 0 0 90px;
     float: left;
     display: inline-block;
     
@@ -451,8 +446,7 @@ ul {
          display: inline-block;
          text-align: right;
          color: #333030;
-         font-size: 13.57px;
-         padding-right: 30px;
+         padding-right: 15px;
         
         span {
             color: #ff4911;
@@ -465,6 +459,7 @@ ul {
     height: 27px;
     float: right;
     display: inline-block;
+     
 }
 
 
